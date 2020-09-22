@@ -1,6 +1,6 @@
 ## Description
 
-This preject is example of usage Unform with complex structures and with checkbox bonus :)
+This preject is example of usage Unform with complex structures and with radio button input bonus :)
 
 (Is only example)
 
